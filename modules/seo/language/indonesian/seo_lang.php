@@ -1,15 +1,15 @@
 <?php
-$lang['module_page_analysis'] = 'Page Analysis';
-$lang['module_google_keywords'] = 'Google Keywords';
+$lang['module_page_analysis'] = "Laman Analisa";
+$lang['module_google_keywords'] = "Kata Kunci Google (<i>Google Keywords</i>)";
 
 // Page Analysis
-$lang['error_seo_dev_password'] = 'Please turn off FUEL\'s <strong>dev_password</strong> for this page to work correctly.';
-$lang['seo_page_analysis_instructions'] = 'Select the page from the dropdown to analyze. Results will appear below which will display some key semantic results of your page.';
-$lang['btn_analyze'] = 'Analyze';
+$lang['error_seo_dev_password'] = "Harap menonaktifkan dev_password FUEL pada laman ini agar dapat berjalan dengan semestinya.";
+$lang['seo_page_analysis_instructions'] = "Pilih laman yang akan dianalisa pada pilihan yang tersedia. Hasil analisa dipaparkan di bawah dengan menampilkan beberapa kata kunci semantik pada laman anda.";
+$lang['btn_analyze'] = "Analisa";
 
-$lang['heading_title'] = 'Title';
-$lang['heading_description'] = 'Description';
-$lang['heading_keywords'] = 'Keywords';
+$lang['heading_title'] = "Judul";
+$lang['heading_description'] = "Deskripsi";
+$lang['heading_keywords'] = "Kata Kunci";
 $lang['heading_top_keywords'] = 'Top %1s Keywords';
 $lang['heading_first_100_words'] = 'First 100 Paragraph Words';
 $lang['heading_outbound_links'] = 'Outbound Links';
